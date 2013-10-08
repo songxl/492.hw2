@@ -1,0 +1,686 @@
+NO. 1
+h1 of 312045678 = 0
+Pop out the first puzzle in pq: 312045678
+It's F= 0
+find the root
+depth is 1
+solution_depth 1
+NO. 2
+h1 of 102345678 = 0
+Pop out the first puzzle in pq: 102345678
+It's F= 0
+NEW STATE: push the state 142305678 to frontier
+h1 of 142305678 = 0
+NEW STATE: push the state 120345678 to frontier
+h1 of 120345678 = 0
+find the root
+depth is 1
+solution_depth 1
+NO. 3
+h1 of 312645078 = 0
+Pop out the first puzzle in pq: 312645078
+It's F= 0
+NEW STATE: push the state 312045678 to frontier
+h1 of 312045678 = 0
+NEW STATE: push the state 312645708 to frontier
+h1 of 312645708 = 0
+Pop out the first puzzle in pq: 312645708
+It's F= 1
+NEW STATE: push the state 312605748 to frontier
+h1 of 312605748 = 0
+NEW STATE: push the state 312645780 to frontier
+h1 of 312645780 = 0
+Pop out the first puzzle in pq: 312645780
+It's F= 2
+NEW STATE: push the state 312640785 to frontier
+h1 of 312640785 = 0
+Pop out the first puzzle in pq: 312640785
+It's F= 3
+NEW STATE: push the state 310642785 to frontier
+h1 of 310642785 = 0
+NEW STATE: push the state 312604785 to frontier
+h1 of 312604785 = 0
+Pop out the first puzzle in pq: 312604785
+It's F= 4
+NEW STATE: push the state 302614785 to frontier
+h1 of 302614785 = 0
+NEW STATE: push the state 312684705 to frontier
+h1 of 312684705 = 0
+NEW STATE: push the state 312064785 to frontier
+h1 of 312064785 = 0
+Pop out the first puzzle in pq: 312064785
+It's F= 5
+NEW STATE: push the state 012364785 to frontier
+h1 of 012364785 = 0
+NEW STATE: push the state 312764085 to frontier
+h1 of 312764085 = 0
+Pop out the first puzzle in pq: 312764085
+It's F= 6
+NEW STATE: push the state 312764805 to frontier
+h1 of 312764805 = 0
+Pop out the first puzzle in pq: 312764805
+It's F= 7
+NEW STATE: push the state 312704865 to frontier
+h1 of 312704865 = 0
+NEW STATE: push the state 312764850 to frontier
+h1 of 312764850 = 0
+Pop out the first puzzle in pq: 312764850
+It's F= 8
+NEW STATE: push the state 312760854 to frontier
+h1 of 312760854 = 0
+Pop out the first puzzle in pq: 312760854
+It's F= 9
+NEW STATE: push the state 310762854 to frontier
+h1 of 310762854 = 0
+NEW STATE: push the state 312706854 to frontier
+h1 of 312706854 = 0
+Pop out the first puzzle in pq: 312706854
+It's F= 10
+NEW STATE: push the state 302716854 to frontier
+h1 of 302716854 = 0
+NEW STATE: push the state 312756804 to frontier
+h1 of 312756804 = 0
+NEW STATE: push the state 312076854 to frontier
+h1 of 312076854 = 0
+Pop out the first puzzle in pq: 312076854
+It's F= 11
+NEW STATE: push the state 012376854 to frontier
+h1 of 012376854 = 0
+NEW STATE: push the state 312876054 to frontier
+h1 of 312876054 = 0
+Pop out the first puzzle in pq: 312876054
+It's F= 12
+NEW STATE: push the state 312876504 to frontier
+h1 of 312876504 = 0
+Pop out the first puzzle in pq: 312876504
+It's F= 13
+NEW STATE: push the state 312806574 to frontier
+h1 of 312806574 = 0
+NEW STATE: push the state 312876540 to frontier
+h1 of 312876540 = 0
+Pop out the first puzzle in pq: 312876540
+It's F= 14
+NEW STATE: push the state 312870546 to frontier
+h1 of 312870546 = 0
+Pop out the first puzzle in pq: 312870546
+It's F= 15
+NEW STATE: push the state 310872546 to frontier
+h1 of 310872546 = 0
+NEW STATE: push the state 312807546 to frontier
+h1 of 312807546 = 0
+Pop out the first puzzle in pq: 312807546
+It's F= 16
+NEW STATE: push the state 302817546 to frontier
+h1 of 302817546 = 0
+NEW STATE: push the state 312847506 to frontier
+h1 of 312847506 = 0
+NEW STATE: push the state 312087546 to frontier
+h1 of 312087546 = 0
+Pop out the first puzzle in pq: 312087546
+It's F= 17
+NEW STATE: push the state 012387546 to frontier
+h1 of 012387546 = 0
+NEW STATE: push the state 312587046 to frontier
+h1 of 312587046 = 0
+Pop out the first puzzle in pq: 312587046
+It's F= 18
+NEW STATE: push the state 312587406 to frontier
+h1 of 312587406 = 0
+Pop out the first puzzle in pq: 312587406
+It's F= 19
+NEW STATE: push the state 312507486 to frontier
+h1 of 312507486 = 0
+NEW STATE: push the state 312587460 to frontier
+h1 of 312587460 = 0
+Pop out the first puzzle in pq: 312587460
+It's F= 20
+NEW STATE: push the state 312580467 to frontier
+h1 of 312580467 = 0
+Pop out the first puzzle in pq: 312580467
+It's F= 21
+NEW STATE: push the state 310582467 to frontier
+h1 of 310582467 = 0
+NEW STATE: push the state 312508467 to frontier
+h1 of 312508467 = 0
+Pop out the first puzzle in pq: 312508467
+It's F= 22
+NEW STATE: push the state 302518467 to frontier
+h1 of 302518467 = 0
+NEW STATE: push the state 312568407 to frontier
+h1 of 312568407 = 0
+NEW STATE: push the state 312058467 to frontier
+h1 of 312058467 = 0
+Pop out the first puzzle in pq: 312058467
+It's F= 23
+NEW STATE: push the state 012358467 to frontier
+h1 of 012358467 = 0
+NEW STATE: push the state 312458067 to frontier
+h1 of 312458067 = 0
+Pop out the first puzzle in pq: 312458067
+It's F= 24
+NEW STATE: push the state 312458607 to frontier
+h1 of 312458607 = 0
+Pop out the first puzzle in pq: 312458607
+It's F= 25
+NEW STATE: push the state 312408657 to frontier
+h1 of 312408657 = 0
+NEW STATE: push the state 312458670 to frontier
+h1 of 312458670 = 0
+Pop out the first puzzle in pq: 312458670
+It's F= 26
+NEW STATE: push the state 312450678 to frontier
+h1 of 312450678 = 0
+Pop out the first puzzle in pq: 312450678
+It's F= 27
+NEW STATE: push the state 310452678 to frontier
+h1 of 310452678 = 0
+NEW STATE: push the state 312405678 to frontier
+h1 of 312405678 = 0
+Pop out the first puzzle in pq: 312405678
+It's F= 28
+NEW STATE: push the state 302415678 to frontier
+h1 of 302415678 = 0
+NEW STATE: push the state 312475608 to frontier
+h1 of 312475608 = 0
+Pop out the first puzzle in pq: 312475608
+It's F= 29
+NEW STATE: push the state 312475680 to frontier
+h1 of 312475680 = 0
+NEW STATE: push the state 312475068 to frontier
+h1 of 312475068 = 0
+Pop out the first puzzle in pq: 312475068
+It's F= 30
+NEW STATE: push the state 312075468 to frontier
+h1 of 312075468 = 0
+Pop out the first puzzle in pq: 312075468
+It's F= 31
+NEW STATE: push the state 012375468 to frontier
+h1 of 012375468 = 0
+NEW STATE: push the state 312705468 to frontier
+h1 of 312705468 = 0
+Pop out the first puzzle in pq: 312705468
+It's F= 32
+NEW STATE: push the state 302715468 to frontier
+h1 of 302715468 = 0
+NEW STATE: push the state 312765408 to frontier
+h1 of 312765408 = 0
+NEW STATE: push the state 312750468 to frontier
+h1 of 312750468 = 0
+Pop out the first puzzle in pq: 312750468
+It's F= 33
+NEW STATE: push the state 310752468 to frontier
+h1 of 310752468 = 0
+NEW STATE: push the state 312758460 to frontier
+h1 of 312758460 = 0
+Pop out the first puzzle in pq: 312758460
+It's F= 34
+NEW STATE: push the state 312758406 to frontier
+h1 of 312758406 = 0
+Pop out the first puzzle in pq: 312758406
+It's F= 35
+NEW STATE: push the state 312708456 to frontier
+h1 of 312708456 = 0
+NEW STATE: push the state 312758046 to frontier
+h1 of 312758046 = 0
+Pop out the first puzzle in pq: 312758046
+It's F= 36
+NEW STATE: push the state 312058746 to frontier
+h1 of 312058746 = 0
+Pop out the first puzzle in pq: 312058746
+It's F= 37
+NEW STATE: push the state 012358746 to frontier
+h1 of 012358746 = 0
+NEW STATE: push the state 312508746 to frontier
+h1 of 312508746 = 0
+Pop out the first puzzle in pq: 312508746
+It's F= 38
+NEW STATE: push the state 302518746 to frontier
+h1 of 302518746 = 0
+NEW STATE: push the state 312548706 to frontier
+h1 of 312548706 = 0
+NEW STATE: push the state 312580746 to frontier
+h1 of 312580746 = 0
+Pop out the first puzzle in pq: 312580746
+It's F= 39
+NEW STATE: push the state 310582746 to frontier
+h1 of 310582746 = 0
+NEW STATE: push the state 312586740 to frontier
+h1 of 312586740 = 0
+Pop out the first puzzle in pq: 312586740
+It's F= 40
+NEW STATE: push the state 312586704 to frontier
+h1 of 312586704 = 0
+Pop out the first puzzle in pq: 312586704
+It's F= 41
+NEW STATE: push the state 312506784 to frontier
+h1 of 312506784 = 0
+NEW STATE: push the state 312586074 to frontier
+h1 of 312586074 = 0
+Pop out the first puzzle in pq: 312586074
+It's F= 42
+NEW STATE: push the state 312086574 to frontier
+h1 of 312086574 = 0
+Pop out the first puzzle in pq: 312086574
+It's F= 43
+NEW STATE: push the state 012386574 to frontier
+h1 of 012386574 = 0
+Pop out the first puzzle in pq: 012386574
+It's F= 44
+NEW STATE: push the state 102386574 to frontier
+h1 of 102386574 = 0
+Pop out the first puzzle in pq: 102386574
+It's F= 45
+NEW STATE: push the state 182306574 to frontier
+h1 of 182306574 = 0
+NEW STATE: push the state 120386574 to frontier
+h1 of 120386574 = 0
+Pop out the first puzzle in pq: 120386574
+It's F= 46
+NEW STATE: push the state 126380574 to frontier
+h1 of 126380574 = 0
+Pop out the first puzzle in pq: 126380574
+It's F= 47
+NEW STATE: push the state 126384570 to frontier
+h1 of 126384570 = 0
+NEW STATE: push the state 126308574 to frontier
+h1 of 126308574 = 0
+Pop out the first puzzle in pq: 126308574
+It's F= 48
+NEW STATE: push the state 106328574 to frontier
+h1 of 106328574 = 0
+NEW STATE: push the state 126378504 to frontier
+h1 of 126378504 = 0
+NEW STATE: push the state 126038574 to frontier
+h1 of 126038574 = 0
+Pop out the first puzzle in pq: 126038574
+It's F= 49
+NEW STATE: push the state 026138574 to frontier
+h1 of 026138574 = 0
+NEW STATE: push the state 126538074 to frontier
+h1 of 126538074 = 0
+Pop out the first puzzle in pq: 126538074
+It's F= 50
+NEW STATE: push the state 126538704 to frontier
+h1 of 126538704 = 0
+Pop out the first puzzle in pq: 126538704
+It's F= 51
+NEW STATE: push the state 126508734 to frontier
+h1 of 126508734 = 0
+NEW STATE: push the state 126538740 to frontier
+h1 of 126538740 = 0
+Pop out the first puzzle in pq: 126538740
+It's F= 52
+NEW STATE: push the state 126530748 to frontier
+h1 of 126530748 = 0
+Pop out the first puzzle in pq: 126530748
+It's F= 53
+NEW STATE: push the state 120536748 to frontier
+h1 of 120536748 = 0
+NEW STATE: push the state 126503748 to frontier
+h1 of 126503748 = 0
+Pop out the first puzzle in pq: 126503748
+It's F= 54
+NEW STATE: push the state 106523748 to frontier
+h1 of 106523748 = 0
+NEW STATE: push the state 126543708 to frontier
+h1 of 126543708 = 0
+NEW STATE: push the state 126053748 to frontier
+h1 of 126053748 = 0
+Pop out the first puzzle in pq: 126053748
+It's F= 55
+NEW STATE: push the state 026153748 to frontier
+h1 of 026153748 = 0
+NEW STATE: push the state 126753048 to frontier
+h1 of 126753048 = 0
+Pop out the first puzzle in pq: 126753048
+It's F= 56
+NEW STATE: push the state 126753408 to frontier
+h1 of 126753408 = 0
+Pop out the first puzzle in pq: 126753408
+It's F= 57
+NEW STATE: push the state 126703458 to frontier
+h1 of 126703458 = 0
+NEW STATE: push the state 126753480 to frontier
+h1 of 126753480 = 0
+Pop out the first puzzle in pq: 126753480
+It's F= 58
+NEW STATE: push the state 126750483 to frontier
+h1 of 126750483 = 0
+Pop out the first puzzle in pq: 126750483
+It's F= 59
+NEW STATE: push the state 120756483 to frontier
+h1 of 120756483 = 0
+NEW STATE: push the state 126705483 to frontier
+h1 of 126705483 = 0
+Pop out the first puzzle in pq: 126705483
+It's F= 60
+NEW STATE: push the state 106725483 to frontier
+h1 of 106725483 = 0
+NEW STATE: push the state 126785403 to frontier
+h1 of 126785403 = 0
+NEW STATE: push the state 126075483 to frontier
+h1 of 126075483 = 0
+Pop out the first puzzle in pq: 126075483
+It's F= 61
+NEW STATE: push the state 026175483 to frontier
+h1 of 026175483 = 0
+NEW STATE: push the state 126475083 to frontier
+h1 of 126475083 = 0
+Pop out the first puzzle in pq: 126475083
+It's F= 62
+NEW STATE: push the state 126475803 to frontier
+h1 of 126475803 = 0
+Pop out the first puzzle in pq: 126475803
+It's F= 63
+NEW STATE: push the state 126405873 to frontier
+h1 of 126405873 = 0
+NEW STATE: push the state 126475830 to frontier
+h1 of 126475830 = 0
+Pop out the first puzzle in pq: 126475830
+It's F= 64
+NEW STATE: push the state 126470835 to frontier
+h1 of 126470835 = 0
+Pop out the first puzzle in pq: 126470835
+It's F= 65
+NEW STATE: push the state 120476835 to frontier
+h1 of 120476835 = 0
+NEW STATE: push the state 126407835 to frontier
+h1 of 126407835 = 0
+Pop out the first puzzle in pq: 126407835
+It's F= 66
+NEW STATE: push the state 106427835 to frontier
+h1 of 106427835 = 0
+NEW STATE: push the state 126437805 to frontier
+h1 of 126437805 = 0
+NEW STATE: push the state 126047835 to frontier
+h1 of 126047835 = 0
+Pop out the first puzzle in pq: 126047835
+It's F= 67
+NEW STATE: push the state 026147835 to frontier
+h1 of 026147835 = 0
+NEW STATE: push the state 126847035 to frontier
+h1 of 126847035 = 0
+Pop out the first puzzle in pq: 126847035
+It's F= 68
+NEW STATE: push the state 126847305 to frontier
+h1 of 126847305 = 0
+Pop out the first puzzle in pq: 126847305
+It's F= 69
+NEW STATE: push the state 126807345 to frontier
+h1 of 126807345 = 0
+NEW STATE: push the state 126847350 to frontier
+h1 of 126847350 = 0
+Pop out the first puzzle in pq: 126847350
+It's F= 70
+NEW STATE: push the state 126840357 to frontier
+h1 of 126840357 = 0
+Pop out the first puzzle in pq: 126840357
+It's F= 71
+NEW STATE: push the state 120846357 to frontier
+h1 of 120846357 = 0
+NEW STATE: push the state 126804357 to frontier
+h1 of 126804357 = 0
+Pop out the first puzzle in pq: 126804357
+It's F= 72
+NEW STATE: push the state 106824357 to frontier
+h1 of 106824357 = 0
+NEW STATE: push the state 126854307 to frontier
+h1 of 126854307 = 0
+NEW STATE: push the state 126084357 to frontier
+h1 of 126084357 = 0
+Pop out the first puzzle in pq: 126084357
+It's F= 73
+NEW STATE: push the state 026184357 to frontier
+h1 of 026184357 = 0
+NEW STATE: push the state 126384057 to frontier
+h1 of 126384057 = 0
+Pop out the first puzzle in pq: 126384057
+It's F= 74
+NEW STATE: push the state 126384507 to frontier
+h1 of 126384507 = 0
+Pop out the first puzzle in pq: 126384507
+It's F= 75
+NEW STATE: push the state 126304587 to frontier
+h1 of 126304587 = 0
+Pop out the first puzzle in pq: 126304587
+It's F= 76
+NEW STATE: push the state 106324587 to frontier
+h1 of 106324587 = 0
+NEW STATE: push the state 126340587 to frontier
+h1 of 126340587 = 0
+NEW STATE: push the state 126034587 to frontier
+h1 of 126034587 = 0
+Pop out the first puzzle in pq: 126034587
+It's F= 77
+NEW STATE: push the state 026134587 to frontier
+h1 of 026134587 = 0
+NEW STATE: push the state 126534087 to frontier
+h1 of 126534087 = 0
+Pop out the first puzzle in pq: 126534087
+It's F= 78
+NEW STATE: push the state 126534807 to frontier
+h1 of 126534807 = 0
+Pop out the first puzzle in pq: 126534807
+It's F= 79
+NEW STATE: push the state 126504837 to frontier
+h1 of 126504837 = 0
+NEW STATE: push the state 126534870 to frontier
+h1 of 126534870 = 0
+Pop out the first puzzle in pq: 126534870
+It's F= 80
+NEW STATE: push the state 126530874 to frontier
+h1 of 126530874 = 0
+Pop out the first puzzle in pq: 126530874
+It's F= 81
+NEW STATE: push the state 120536874 to frontier
+h1 of 120536874 = 0
+NEW STATE: push the state 126503874 to frontier
+h1 of 126503874 = 0
+Pop out the first puzzle in pq: 126503874
+It's F= 82
+NEW STATE: push the state 106523874 to frontier
+h1 of 106523874 = 0
+NEW STATE: push the state 126573804 to frontier
+h1 of 126573804 = 0
+NEW STATE: push the state 126053874 to frontier
+h1 of 126053874 = 0
+Pop out the first puzzle in pq: 126053874
+It's F= 83
+NEW STATE: push the state 026153874 to frontier
+h1 of 026153874 = 0
+NEW STATE: push the state 126853074 to frontier
+h1 of 126853074 = 0
+Pop out the first puzzle in pq: 126853074
+It's F= 84
+NEW STATE: push the state 126853704 to frontier
+h1 of 126853704 = 0
+Pop out the first puzzle in pq: 126853704
+It's F= 85
+NEW STATE: push the state 126803754 to frontier
+h1 of 126803754 = 0
+NEW STATE: push the state 126853740 to frontier
+h1 of 126853740 = 0
+Pop out the first puzzle in pq: 126853740
+It's F= 86
+NEW STATE: push the state 126850743 to frontier
+h1 of 126850743 = 0
+Pop out the first puzzle in pq: 126850743
+It's F= 87
+NEW STATE: push the state 120856743 to frontier
+h1 of 120856743 = 0
+NEW STATE: push the state 126805743 to frontier
+h1 of 126805743 = 0
+Pop out the first puzzle in pq: 126805743
+It's F= 88
+NEW STATE: push the state 106825743 to frontier
+h1 of 106825743 = 0
+NEW STATE: push the state 126845703 to frontier
+h1 of 126845703 = 0
+NEW STATE: push the state 126085743 to frontier
+h1 of 126085743 = 0
+Pop out the first puzzle in pq: 126085743
+It's F= 89
+NEW STATE: push the state 026185743 to frontier
+h1 of 026185743 = 0
+NEW STATE: push the state 126785043 to frontier
+h1 of 126785043 = 0
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+Pop out the first puzzle in pq: 126785043
+It's F= 90
+solution_depth 0
+       C_G        |   Avg depth      |    Avg # goals   |   Avg max size
+        1   |              1   |              3   |            1.5
+        2   |              0   |            164   |             74
+        3   |           -nan   |           -nan   |           -nan
+        4   |           -nan   |           -nan   |           -nan
+        5   |           -nan   |           -nan   |           -nan
+        6   |           -nan   |           -nan   |           -nan
+        7   |           -nan   |           -nan   |           -nan
+        8   |           -nan   |           -nan   |           -nan
+        9   |           -nan   |           -nan   |           -nan
+       10   |           -nan   |           -nan   |           -nan

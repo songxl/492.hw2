@@ -1,0 +1,71 @@
+Compile Instructions : You need to include parse.h in your program file and compile it with parse.o
+For example : if you wrote bfs.cpp as the bfs program then compile it like : 
+g++ -std=c++0x parse.o bfs.cpp -o bfs.out
+
+In case you want to use gdb to debug your program, then compile by(May not be required) : 
+g++ -g  -std=c++0x parse.o bfs.cpp -o bfs.out
+
+
+Helpful Functions & Classes :
+
+Class Puzzle is used for parsing the file puzzles.txt which has 764 puzzles
+Instructions for using class Puzzle :
+1. Create an object of Puzzle using the constructor provided. Ex : Puzzle puz("file path relative to current directory");
+2. For iterating through the puzzles, use string Puzzle::nextPuzzle() which returns an std string object.
+   For example : 0 1 2
+                 3 4 5
+                 6 7 8 
+   would be returned as string "012345678"
+3. Each time you call nextPuzzle(), it'll return the next puzzle in the puzzle.txt.
+   if no more puzzles are left in the file, then NULL is returned by nextPuzzle()
+
+Helpful Functions : 
+1.  string  nextState (string current, unsigned move) :
+    This function returns the next state where 
+    string current is the current state of the puzzle in the string format
+    unsigned move is which direction you want the zero in the current state to move
+    move = 1 would move the zero UP 
+    Example : 123045678 -> nextState(UP=1) -> 023145678
+    move = 2 would move the zero DOWN 
+    Example : 012345678 -> nextState(DOWN=2) -> 321045678
+    Similarly move = 3 would move the zero to RIGHT and move = 4 would the zero to LEFT
+    if a certain move cannot be performed like move  = 1 on 012345678 would not do anything since 0 cannot be moved up, NULL is returned
+
+2. bool isGoalState(string state) : returns a true if the state="012345678" and false otherwise
+
+NOTE : Puzzle::void readFullLine () && void swap (string current, int old_zero, int new_zero) 
+       wont be required in the assignment.
+
+Also, use std in your programs. 
+So write "using namespace std" in your file to use string operations since in this assignment , we'll be relying on stl's
+
+
+Example program is written below : 
+
+include<iostream>
+#include<queue>
+#include<map>
+#include "parse.h"
+using namespace std;
+
+const int UP = 1;
+const int DOWN = 2;
+const int RIGHT = 3;
+const int LEFT = 4;
+
+bfs(string puzzle) {
+ /* write logic here */
+}
+
+int main() {
+    Puzzles puz("new_puzzles.txt");
+    string next_puzzle = puz.nextPuzzle();
+
+    while(next_puzzle.size()) {
+        bfs(next_puzzle);
+        next_puzzle = puz.nextPuzzle();
+    }
+
+    //dump your output
+}
+
